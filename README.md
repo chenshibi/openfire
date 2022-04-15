@@ -1,2 +1,0 @@
-# openfire
-readme
